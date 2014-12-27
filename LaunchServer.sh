@@ -1,0 +1,2 @@
+echo 'Ram:'
+read ram
