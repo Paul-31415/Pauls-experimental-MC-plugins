@@ -1,0 +1,10 @@
+<operators>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">1</id>
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">5a11ee71-b87a-475b-b5d7-9dc777b80404</player>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">2</id>
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">08f6de37-efec-36b4-b906-9cc154910aa7</player>
+  </entry>
+</operators>
