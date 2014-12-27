@@ -1,0 +1,1 @@
+This is a test to show paul how git works. He should edit this file and re-commit it when he sees it.
