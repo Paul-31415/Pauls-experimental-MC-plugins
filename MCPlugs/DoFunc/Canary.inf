@@ -1,0 +1,4 @@
+main-class = helloworld.DoFunc
+name = DoFunc
+author = Paul
+version = 1.0

@@ -1,0 +1,4 @@
+main-class = chatout.ChatOut
+name = ChatOut
+author = Paul
+version = 1.0
