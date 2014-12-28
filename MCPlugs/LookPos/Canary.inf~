@@ -1,0 +1,4 @@
+main-class = laservision.LaserVision
+name = LaserVision
+author = Paul
+version = 1.0

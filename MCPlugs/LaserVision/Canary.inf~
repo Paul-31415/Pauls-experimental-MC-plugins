@@ -1,0 +1,4 @@
+main-class = lavavision.LaserVision
+name = LaserVision
+author = Paul
+version = 1.0

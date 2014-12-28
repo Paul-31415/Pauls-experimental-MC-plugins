@@ -1,0 +1,4 @@
+main-class = lookpos.LookPos
+name = LookPos
+author = Paul
+version = 1.0
