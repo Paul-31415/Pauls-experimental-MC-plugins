@@ -37,7 +37,7 @@ public class LaserVision extends EZPlugin {
       Block bp = sightItr.next();
       while (sightItr.hasNext()) {
         Block b = sightItr.next();
-        spawnParticle(b.getLocation(), Particle.Type.DRIP_LAVA);    
+        spawnParticle(b.getLocation(), Particle.Type.LAVA); //should be DRIP_LAVA but that doesn't work
         if (b.getType() != BlockType.Air) {
           bp.getWorld().setBlockAt(bp.getLocation(), BlockType.FireBlock);
           playSound(bp.getLocation(), SoundEffect.Type.FIRE_IGNITE);
